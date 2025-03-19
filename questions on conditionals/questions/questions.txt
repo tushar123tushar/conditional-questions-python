@@ -1,0 +1,14 @@
+ 1 Age Group Categorization
+
+ 2 Movie Ticket Pricing
+
+ 3 Fruite Ripeness Checker
+
+ 4 Grade Calcuter 
+
+ 5 Weather Activity Suggestion
+
+ 6 password Strenth Checker
+
+ 7 Leap Year or Not
+ 
